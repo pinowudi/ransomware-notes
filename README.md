@@ -2,7 +2,7 @@
 Notes of different ransomware families
 
 ## Maze
-```text
+```
 Attention!
 ----------------------------
 | What happened?
