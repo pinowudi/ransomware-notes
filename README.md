@@ -7,6 +7,30 @@ Notes of different ransomware families
 
 ## Buran
 ```
+All your files, documents, photos, databases and other important
+files are encrypted.
+
+You are not able to decrypt it by yourself! The only method
+of recovering files is to purchase an unique private key.
+Only we can give you this key and only we can recover your files.
+
+To be sure we have the decryptor and it works you can send an
+email unique10@protonmail.com or realtime5@protonmail.com  and decrypt one file for free. But this
+file should be of not valuable!
+
+Do you really want to restore your files?
+Write to email unique10@protonmail.com or realtime5@protonmail.com 
+
+
+Your personal ID: 0A123BC4-56DE-78FF-9E01-23ABC256F34E
+
+Attention!
+ * Do not rename encrypted files. 
+ * Do not try to decrypt your data using third party software,
+   it may cause permanent data loss.  
+ * Decryption of your files with the help of third parties may
+   cause increased price (they add their fee to our) or you can
+   become a victim of a scam.
 ```
 
 ## Chacha
