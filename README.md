@@ -39,11 +39,73 @@ Attention!
 ```
 
 ## Dharma
+Filename: `Info.hta`  
 ```
+All your files have been encrypted!
+All your files have been encrypted due to a security problem with your PC. If you want to restore them, write us to the e-mail admin@sectex.net
+Write this ID in the title of your message EA0599F6
+In case of no answer in 24 hours write us to theese e-mails:admin@sectex.world
+You have to pay for decryption in Bitcoins. The price depends on how fast you write to us. After payment we will send you the decryption tool that will decrypt all your files. 
+Free decryption as guarantee
+Before paying you can send us up to 1 file for free decryption. The total size of files must be less than 1Mb (non archived), and files should not contain valuable information. (databases,backups, large excel sheets, etc.) 
+How to obtain Bitcoins
+The easiest way to buy bitcoins is LocalBitcoins site. You have to register, click 'Buy bitcoins', and select the seller by payment method and price. 
+https://localbitcoins.com/buy_bitcoins 
+Also you can find other places to buy Bitcoins and beginners guide here: 
+http://www.coindesk.com/information/how-can-i-buy-bitcoins/ 
+Attention!
+Do not rename encrypted files. 
+Do not try to decrypt your data using third party software, it may cause permanent data loss. 
+Decryption of your files with the help of third parties may cause increased price (they add their fee to our) or you can become a victim of a scam. 
 ```
 
 ## Gandcrab
+Filename: `YYLIOZIDKW-MANUAL.txt`  
 ```
+---=    GANDCRAB V5.2    =--- 
+
+***********************UNDER NO CIRCUMSTANCES DO NOT DELETE THIS FILE, UNTIL ALL YOUR DATA IS RECOVERED***********************
+
+	*****FAILING TO DO SO, WILL RESULT IN YOUR SYSTEM CORRUPTION, IF THERE ARE DECRYPTION ERRORS*****
+
+Attention! 
+
+All your files, documents, photos, databases and other important files are encrypted and have the extension: .YYLIOZIDKW   
+
+The only method of recovering files is to purchase an unique private key. Only we can give you this key and only we can recover your files.
+
+
+The server with your key is in a closed network TOR. You can get there by the following ways:
+
+----------------------------------------------------------------------------------------
+
+| 0. Download Tor browser - https://www.torproject.org/ 
+
+| 1. Install Tor browser 
+| 2. Open Tor Browser 
+| 3. Open link in TOR browser:   http://gandcrabmfe6mnef.onion/b6314679c4ba3647                        
+| 4. Follow the instructions on this page 
+
+----------------------------------------------------------------------------------------                    
+    
+
+On our page you will see instructions on payment and get the opportunity to decrypt 1 file for free. 
+
+
+ATTENTION!
+
+IN ORDER TO PREVENT DATA DAMAGE:
+
+* DO NOT MODIFY ENCRYPTED FILES
+* DO NOT CHANGE DATA BELOW
+
+---BEGIN GANDCRAB KEY---
+%base64_key%
+---END GANDCRAB KEY---
+
+---BEGIN PC DATA---
+%base64_data%
+---END PC DATA---
 ```
 
 ## Lockergoga
@@ -182,7 +244,7 @@ ONE MORE TIME: Its in your interests to get your files back. From our side, we (
 ```
 
 ## Ryuk
-Filename: ` RyukReadMe.txt`  
+Filename: `RyukReadMe.txt`  
 ```
 Your network has been penetrated.
 
@@ -221,7 +283,7 @@ No system is safe
 ```
 
 ## Wannacry
-Filename:  ` @Please_Read_Me@.txt`  
+Filename:  `@Please_Read_Me@.txt`  
 ```
 Q:  What's wrong with my files?
 
