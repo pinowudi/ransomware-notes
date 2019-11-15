@@ -1,6 +1,30 @@
 # ransomware-notes
 Notes of different ransomware families
 
+## Bitpaymer
+```
+```
+
+## Buran
+```
+```
+
+## Chacha
+```
+```
+
+## Dharma
+```
+```
+
+## Gandcrab
+```
+```
+
+## Lockergoga
+```
+```
+
 ## Maze
 ```
 Attention!
@@ -38,4 +62,28 @@ THIS IS A SPECIAL BLOCK WITH A PERSONAL AND CONFIDENTIAL INFORMATION! DO NOT TOU
 ---BEGIN MAZE KEY---
 %base64key%
 ---END MAZE KEY---
+```
+
+## Megacortex
+```
+```
+
+## Revil
+```
+```
+
+## Robbinhood
+```
+```
+
+## Ryuk
+```
+```
+
+## Samsam
+```
+```
+
+## Wannacry
+```
 ```
