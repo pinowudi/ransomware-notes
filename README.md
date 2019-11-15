@@ -6,6 +6,7 @@ Notes of different ransomware families
 ```
 
 ## Buran
+Filename:  `!!! YOUR FILES ARE ENCRYPTED !!!.TXT`  
 ```
 All your files, documents, photos, databases and other important
 files are encrypted.
@@ -50,6 +51,7 @@ Attention!
 ```
 
 ## Maze
+Filename:  `DECRYPT-FILES.txt`  
 ```
 Attention!
 ----------------------------
