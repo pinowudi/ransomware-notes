@@ -189,6 +189,18 @@ THIS IS A SPECIAL BLOCK WITH A PERSONAL AND CONFIDENTIAL INFORMATION! DO NOT TOU
 ```
 ```
 
+## PureLocker
+Filename:  `YOUR_FILES.txt`  
+```
+#CR1
+All your files have been encrypted using: AES-256-CBC + RSA-4096.
+Shadows copies were removed, original files were overwritten, renamed and deleted using safe methods.
+Recovery is not possible without own RSA-4096 private key.
+Only we can decrypt your files!
+To decrypt your files contact us at: cr1-silvergold1@protonmail.com 
+Your private key will be deleted after 7 days starting from: 15/10/2019, after that the recovery of your files will not be possible.
+```
+
 ## Revil (Sodinokibi)
 Filename:  `kd2p9-readme.txt`  
 ```
