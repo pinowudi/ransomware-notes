@@ -290,6 +290,13 @@ No system is safe
 ```
 ```
 
+## Snatch
+```
+All your files are encrypted
+Do not try modify files
+My email imBoristheBlade@protonmail.com
+```
+
 ## Vegalocker
 ```
 ```
