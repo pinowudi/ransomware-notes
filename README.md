@@ -291,10 +291,25 @@ No system is safe
 ```
 
 ## Snatch
+#1 Filename: `Readme_Restore_Files.txt`  
 ```
 All your files are encrypted
 Do not try modify files
 My email imBoristheBlade@protonmail.com
+```
+
+#2 Filename: `RESTORE_DGLNL_FILES.txt`  
+```
+Your all your files are encrypted and only I can decrypt them.
+Contact me:
+doctor666@mail.fr or doctor666@cock.li
+Write me if you want to return your files - I can do it very quickly
+The header of the letter must contain the extension of the encryptor.
+Attention
+Do not rename encrypted files. You may have permanent data loss.
+To prove that I can recover your files, I am ready to decrypt any three files (less than 1Mb) for free (except databases, Excel and backups)
+hurry up
+If you do not email me in the next 48 hours then your data may be lost permanently
 ```
 
 ## Vegalocker
