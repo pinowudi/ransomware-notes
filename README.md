@@ -3,6 +3,14 @@ Notes of different ransomware families
 
 ## Bitpaymer
 ```
+Hello %Company_name%
+Your network was hacked and encrypted.
+No free decryption software is available on the web.
+E-mail us at %e-mail% to get the ransom amount.
+Keep our contacts safe. Disclosure can lead to impossibility of decryption.
+Please, use your company name as the email subject.
+TAIL: %base64%
+KEY: %base64%
 ```
 
 ## Buran
@@ -34,7 +42,26 @@ Attention!
    become a victim of a scam.
 ```
 
+## Cerber
+```
+Your documents, photots, databases and other important files have been encrypted!
+To decrypt your files follow the instructions:
+
+1. Download and install the <Tor Browser> from https://www.torproject.org/
+
+2. Run it
+
+3. In the <Tor Browser> open website:
+  http://decrypttozxybarc.onion/BFA2-3DEC-FB00-003F-302B
+
+4. Follow the instructions at this website.
+```
+
 ## Chacha
+```
+```
+
+## CryptXXX
 ```
 ```
 
@@ -144,6 +171,10 @@ IN ORDER TO PREVENT DATA DAMAGE:
 ---END PC DATA---
 ```
 
+## Jigsaw
+```
+```
+
 ## Lockergoga
 Filename:  `README_LOCKED.txt`  
 ```
@@ -179,6 +210,21 @@ To get information on the price of the decoder contact us at:
 
 DharmaParrack@protonmail.com
 wyattpettigrew8922555@mail.com
+```
+
+## Locky
+```
+  !!! IMPORTANT INFORMATION !!!
+
+All of your files are encrypted with RSA-2048 and AES-128 ciphers.
+More information about the RSA and AES can be found here:
+
+Decrypting of your files is only possible with private key and decrypt program, which is on our secret server.
+To receive your private key follow one of the links:
+
+If all of this addresses are not available, follow these steps:
+
+!!! Your personal identification ID: %key% !!!
 ```
 
 ## Maze
@@ -223,6 +269,22 @@ THIS IS A SPECIAL BLOCK WITH A PERSONAL AND CONFIDENTIAL INFORMATION! DO NOT TOU
 
 ## Megacortex
 ```
+```
+
+## Mircop
+```
+Hello,
+
+You've stolen 48.48 BTC from the wrong people, please be
+so kind to return them and we will return your files...
+
+Don't take us for fools, we know more about you than
+you know about yourself.
+
+Pay us back and we won't take further action, don't pay
+and be prepared.
+
+3BGrRU4mhAkCFx1s3Z4yQLCbNg29wtBFj8
 ```
 
 ## PureLocker
